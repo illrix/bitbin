@@ -4,6 +4,6 @@ Paste, share, and forget. This lightweight PHP backend spits out encrypted links
 demo avalable at http://nitor.42web.io/
 <hr>
 - to do 
- [ ] themes 
- [ ] editable drops 
- [ ] login resigration
+ [] themes <br>
+ [] editable drops <br>
+ [] login resigration 
