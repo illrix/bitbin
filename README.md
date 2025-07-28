@@ -3,7 +3,7 @@ Paste, share, and forget. This lightweight PHP backend spits out encrypted links
 <br>
 demo avalable at http://nitor.42web.io/
 <hr>
-- to do 
+- to do <br>
  [] themes <br>
  [] editable drops <br>
  [] login resigration 
