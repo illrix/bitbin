@@ -1,4 +1,4 @@
--- Pastebin Clone Database Schema
+-- Database Schema
 CREATE TABLE IF NOT EXISTS pastes (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     paste_id VARCHAR(10) UNIQUE NOT NULL,
