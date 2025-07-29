@@ -2,10 +2,10 @@
 // Pastebin Clone Configuration
 
 // Database configuration
-define('DB_PATH', __DIR__ . '/pastebin.db');
+define('DB_PATH', __DIR__ . '/data.db');
 
 // Application settings
-define('SITE_NAME', 'PasteBin Clone');
+define('SITE_NAME', 'bitbin');
 define('BASE_URL', 'http://localhost');
 define('MAX_PASTE_SIZE', 1024 * 1024); // 1MB max paste size
 
