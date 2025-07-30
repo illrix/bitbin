@@ -1,5 +1,5 @@
 <?php
-// Pastebin Clone Configuration
+// Configuration
 
 // Database configuration
 define('DB_PATH', __DIR__ . '/data.db');
